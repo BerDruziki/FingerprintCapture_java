@@ -1,1 +1,1 @@
-# DigitalScan_java
+system for capturing fingerprints, saving them as a photos.
